@@ -108,18 +108,18 @@
 - **🧚‍♂️ 快速使用 ✨**
     - [PP-YOLOE Python部署示例](docs/cn/quick_start/models/python.md)
     - [PP-YOLOE C++部署示例](docs/cn/quick_start/models/cpp.md)
-- **💐 不同后端使用 ✨**
+- **🫧 不同后端使用 ✨**
     - [Runtime Python使用示例](docs/cn/quick_start/runtime/python.md)
     - [Runtime C++使用示例](docs/cn/quick_start/runtime/cpp.md)
     - [如何配置模型部署的推理后端](docs/cn/faq/how_to_change_backend.md)
-- **💐 服务化部署 ✨**
+- **🫧 服务化部署 ✨**
     - [服务化部署镜像编译安装](serving/docs/zh_CN/compile.md)
     - [服务化部署](serving)
-- **💐 API文档 ✨**
+- **🫧 API文档 ✨**
     - [Python API文档](https://www.paddlepaddle.org.cn/fastdeploy-api-doc/python/html/)
     - [C++ API文档](https://www.paddlepaddle.org.cn/fastdeploy-api-doc/cpp/html/)
     - [Android Java API文档](java/android)
-- **💐 性能调优 ✨**
+- **🫧 性能调优 ✨**
     - [量化加速](docs/cn/quantize.md)
     - [多线程多进程使用](/tutorials/multi_thread)
 - **🧚‍♂️ 常见问题 ✨**
@@ -130,8 +130,8 @@
     - [Benchmark测试](benchmark)
 - **🧚‍♂️ 模型支持列表 ✨**
     - [🖥️ 服务端 模型支持列表](#fastdeploy-server-models)
-    - [📲 移动端和端侧 模型支持列表](#fastdeploy-edge-models)
-    - [🌐 Web和小程序 模型支持列表](#fastdeploy-web-models)
+    - [📳 移动端和端侧 模型支持列表](#fastdeploy-edge-models)
+    - [⚛️ Web和小程序 模型支持列表](#fastdeploy-web-models)
 - **🦄 开发者贡献 ✨**
     - [增加新模型](docs/cn/faq/develop_a_new_model.md)
 
@@ -335,7 +335,7 @@ int main(int argc, char* argv[]) {
 
 <div id="fastdeploy-edge-models"></div>
 
-## 📲 移动端和端侧 模型支持列表
+## 📳 移动端和端侧 模型支持列表
 
 <details open><summary><b> 端侧模型支持列表（点击可收缩）</b></summary><div>
 
@@ -374,7 +374,7 @@ int main(int argc, char* argv[]) {
 
 </div></details>
 
-## 🌐 Web和小程序 模型支持列表
+## ⚛️ Web和小程序 模型支持列表
 
 <div id="fastdeploy-web-models"></div>
 
@@ -393,11 +393,11 @@ int main(int argc, char* argv[]) {
 </div></details>
 
 
-## Acknowledge
+## 💐 Acknowledge
 
 本项目中SDK生成和下载使用了[EasyEdge](https://ai.baidu.com/easyedge/app/openSource)中的免费开放能力，在此表示感谢。
 
-## License
+## ©️ License
 
 <div id="fastdeploy-license"></div>
 
