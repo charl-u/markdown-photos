@@ -144,32 +144,32 @@
 
 <summary><b>Python SDK快速开始（点开收缩）</b></summary><div>
 
-### 快速安装
+### 🎆 快速安装
 
-#### 前置依赖
+#### 🔸 前置依赖
 
 - CUDA >= 11.2、cuDNN >= 8.0、Python >= 3.6
 - OS: Linux x86_64/macOS/Windows 10
 
-#### 安装GPU版本
+#### 🔸 安装GPU版本
 
 ```bash
 pip install numpy opencv-python fastdeploy-gpu-python -f https://www.paddlepaddle.org.cn/whl/fastdeploy.html
 ```
 
-#### [Conda安装(推荐)](docs/cn/build_and_install/download_prebuilt_libraries.md)
+#### [🔸 Conda安装(推荐✨)](docs/cn/build_and_install/download_prebuilt_libraries.md)
 
 ```bash
 conda config --add channels conda-forge && conda install cudatoolkit=11.2 cudnn=8.2
 ```
 
-#### 安装CPU版本
+#### 🔸 安装CPU版本
 
 ```bash
 pip install numpy opencv-python fastdeploy-python -f https://www.paddlepaddle.org.cn/whl/fastdeploy.html
 ```
 
-### Python 推理示例
+### 🎇 Python 推理示例
 
 * 准备模型和图片
 
@@ -207,11 +207,11 @@ cv2.imwrite("vis_image.jpg", vis_im)
 <summary><b>C++ SDK快速开始（点开查看详情）</b></summary><div>
 
 
-### 安装
+### 🎆 安装
 
 - 参考[C++预编译库下载](docs/cn/build_and_install/download_prebuilt_libraries.md)文档  
 
-#### C++ 推理示例
+#### 🎇 C++ 推理示例
 
 * 准备模型和图片
 
@@ -250,14 +250,14 @@ int main(int argc, char* argv[]) {
 <div id="fastdeploy-server-models"></div>
 
 
-## 服务端模型支持列表 🔥🔥🔥🔥🔥
+## ✴️ ✴️ 服务端模型支持列表 ✴️ ✴️ 
 
-符号说明: (1)  ✅: 已经支持; (2) ❔: 正在进行中; (3) N/A: 暂不支持; <br>
+符号说明: (1)  ✅ : 已经支持; (2) ❔: 正在进行中; (3) N/A : 暂不支持. <br>
 
 <details open><summary><b> 服务端模型支持列表（点击可收缩）</b></summary><div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/54695910/198619323-c9b1cbce-1c1c-4f92-9737-4805c7c0ff2f.png" />
+  <img src="https://raw.githubusercontent.com/charl-u/markdown-photos/main/photos/arrow.png" height ="70"/>
 </div>
 
 | 任务场景                   | 模型                                                                                           | Linux                                            | Linux      | Win     | Win        | Mac     | Mac     | Linux       | Linux           | Linux         | Linux         | Linux   | Linux   | Linux   |
