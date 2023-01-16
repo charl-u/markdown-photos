@@ -43,7 +43,7 @@
 
 <div align="center">
     
-<img src="https://user-images.githubusercontent.com/54695910/212472642-eb52de72-7605-4863-a918-b381329d5f56.png" >
+<img src="https://raw.githubusercontent.com/charl-u/markdown-photos/main/photos/title1.jpg" >
     
 </div>
 
@@ -340,7 +340,7 @@ int main(int argc, char* argv[]) {
 <details open><summary><b> 端侧模型支持列表（点击可收缩）</b></summary><div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/54695910/198619323-c9b1cbce-1c1c-4f92-9737-4805c7c0ff2f.png" />
+  <img src="https://raw.githubusercontent.com/charl-u/markdown-photos/main/photos/arrow.png" height ="60"/>
 </div>
 
 | 任务场景               | 模型                                                                                        | 大小(MB)   | Linux   | Android | Linux     | Linux                   | Linux                          | Linux                       | Linux                            | 更新中...  |
