@@ -90,10 +90,10 @@
 </font>
 
 
-## 📖 文档教程
-- [Python SDK快速开始](#fastdeploy-quick-start-python)  
-- [C++ SDK快速开始](#fastdeploy-quick-start-cpp)
-- **安装文档**
+## 🔮 文档教程
+- [✴️ Python SDK快速开始](#fastdeploy-quick-start-python)  
+- [✴️ C++ SDK快速开始](#fastdeploy-quick-start-cpp)
+- **🧚‍♂️ 安装文档 ✨**
     - [预编译库下载安装](docs/cn/build_and_install/download_prebuilt_libraries.md)
     - [GPU部署环境编译安装](docs/cn/build_and_install/gpu.md)
     - [CPU部署环境编译安装](docs/cn/build_and_install/cpu.md)
@@ -105,40 +105,40 @@
     - [华为昇腾部署环境编译安装](docs/cn/build_and_install/huawei_ascend.md)
     - [Jetson部署环境编译安装](docs/cn/build_and_install/jetson.md)
     - [Android平台部署环境编译安装](docs/cn/build_and_install/android.md)
-- **快速使用**
+- **🧚‍♂️ 快速使用 ✨**
     - [PP-YOLOE Python部署示例](docs/cn/quick_start/models/python.md)
     - [PP-YOLOE C++部署示例](docs/cn/quick_start/models/cpp.md)
-- **不同后端使用**
+- **💐 不同后端使用 ✨**
     - [Runtime Python使用示例](docs/cn/quick_start/runtime/python.md)
     - [Runtime C++使用示例](docs/cn/quick_start/runtime/cpp.md)
     - [如何配置模型部署的推理后端](docs/cn/faq/how_to_change_backend.md)
-- **服务化部署**
+- **💐 服务化部署 ✨**
     - [服务化部署镜像编译安装](serving/docs/zh_CN/compile.md)
     - [服务化部署](serving)
-- **API文档**
+- **💐 API文档 ✨**
     - [Python API文档](https://www.paddlepaddle.org.cn/fastdeploy-api-doc/python/html/)
     - [C++ API文档](https://www.paddlepaddle.org.cn/fastdeploy-api-doc/cpp/html/)
     - [Android Java API文档](java/android)
-- **性能调优**
+- **💐 性能调优 ✨**
     - [量化加速](docs/cn/quantize.md)
     - [多线程多进程使用](/tutorials/multi_thread)
-- **常见问题**
+- **🧚‍♂️ 常见问题 ✨**
     - [1. Windows上C++ SDK如何使用](docs/cn/faq/use_sdk_on_windows.md)
     - [2. Android上如何使用FastDeploy C++ SDK](docs/cn/faq/use_cpp_sdk_on_android.md)
     - [3. TensorRT使用中的一些技巧](docs/cn/faq/tensorrt_tricks.md)
-- **更多FastDeploy部署模块**
+- **🧚‍♂️ 更多FastDeploy部署模块 ✨**
     - [Benchmark测试](benchmark)
-- **模型支持列表**
+- **🧚‍♂️ 模型支持列表 ✨**
     - [🖥️ 服务端 模型支持列表](#fastdeploy-server-models)
     - [📲 移动端和端侧 模型支持列表](#fastdeploy-edge-models)
     - [🌐 Web和小程序 模型支持列表](#fastdeploy-web-models)
-- **开发者贡献**
+- **🦄 开发者贡献 ✨**
     - [增加新模型](docs/cn/faq/develop_a_new_model.md)
 
 
 <div id="fastdeploy-quick-start-python"></div>
 
-## 快速开始
+## 快速开始💨
 
 <details Open>
 
