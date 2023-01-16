@@ -122,13 +122,13 @@
 - **🫧 性能调优 ✨**
     - [量化加速](docs/cn/quantize.md)
     - [多线程多进程使用](/tutorials/multi_thread)
-- **🧚‍♂️ 常见问题 ✨**
+- **🦄 常见问题 ✨**
     - [1. Windows上C++ SDK如何使用](docs/cn/faq/use_sdk_on_windows.md)
     - [2. Android上如何使用FastDeploy C++ SDK](docs/cn/faq/use_cpp_sdk_on_android.md)
     - [3. TensorRT使用中的一些技巧](docs/cn/faq/tensorrt_tricks.md)
-- **🧚‍♂️ 更多FastDeploy部署模块 ✨**
+- **🦄 更多FastDeploy部署模块 ✨**
     - [Benchmark测试](benchmark)
-- **🧚‍♂️ 模型支持列表 ✨**
+- **🦄 模型支持列表 ✨**
     - [🖥️ 服务端 模型支持列表](#fastdeploy-server-models)
     - [📳 移动端和端侧 模型支持列表](#fastdeploy-edge-models)
     - [⚛️ Web和小程序 模型支持列表](#fastdeploy-web-models)
