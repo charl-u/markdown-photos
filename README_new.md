@@ -257,7 +257,7 @@ int main(int argc, char* argv[]) {
 <details open><summary><b> 服务端模型支持列表（点击可收缩）</b></summary><div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/charl-u/markdown-photos/main/photos/arrow.png" height ="70"/>
+  <img src="https://raw.githubusercontent.com/charl-u/markdown-photos/main/photos/arrow.png" height ="60"/>
 </div>
 
 | 任务场景                   | 模型                                                                                           | Linux                                            | Linux      | Win     | Win        | Mac     | Mac     | Linux       | Linux           | Linux         | Linux         | Linux   | Linux   | Linux   |
